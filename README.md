@@ -19,9 +19,6 @@ Community based, all-in-one app where anyone can create a local food pantry to l
 - [Google Search / Maps](https://developers.google.com/maps/documentation/embed/get-started)
 
 # Screenshots
-![ Screenshots]()
-![ Screenshots]()
-![ Screenshots]()
 ![ Screenshots](https://i.imgur.com/1hyO1Mw.png)
 ![ Screenshots](https://i.imgur.com/QcWoI8s.png)
 ![ Screenshots](https://i.imgur.com/HMe4dzs.png)
